@@ -13,6 +13,7 @@
 		EEB920F326C511D7005482BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEB920F126C511D7005482BB /* Main.storyboard */; };
 		EEB920F526C511D9005482BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEB920F426C511D9005482BB /* Assets.xcassets */; };
 		EEB920F826C511D9005482BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEB920F626C511D9005482BB /* LaunchScreen.storyboard */; };
+		EEB9210026C51D59005482BB /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEB920FF26C51D59005482BB /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EEB920F426C511D9005482BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EEB920F726C511D9005482BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EEB920F926C511D9005482BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEB920FF26C51D59005482BB /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EEB920ED26C511D7005482BB /* SceneDelegate.swift */,
 				EEB920EF26C511D7005482BB /* ViewController.swift */,
 				EEB920F126C511D7005482BB /* Main.storyboard */,
+				EEB920FF26C51D59005482BB /* SecondViewController.swift */,
 				EEB920F426C511D9005482BB /* Assets.xcassets */,
 				EEB920F626C511D9005482BB /* LaunchScreen.storyboard */,
 				EEB920F926C511D9005482BB /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEB9210026C51D59005482BB /* SecondViewController.swift in Sources */,
 				EEB920F026C511D7005482BB /* ViewController.swift in Sources */,
 				EEB920EC26C511D7005482BB /* AppDelegate.swift in Sources */,
 				EEB920EE26C511D7005482BB /* SceneDelegate.swift in Sources */,
